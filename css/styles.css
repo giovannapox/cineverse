@@ -372,4 +372,15 @@ footer {
         width: 100%;
         margin: 10px 0;
     }
+
+    .logo {
+        margin-top: 15px;
+        margin-left: 0;
+    }
+
+    .navbar-container img {
+        height: 70px;
+        width: 200px;
+        margin-top:5px;
+    }
 }
